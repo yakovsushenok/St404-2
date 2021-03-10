@@ -1,1 +1,1 @@
-Project on Linear modelling on USA Crime data.
+University Group Project on Linear modelling on USA Crime data.
